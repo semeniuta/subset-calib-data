@@ -1,3 +1,6 @@
 [submodule "libraries/EPypes"]
 	path = libraries/EPypes
 	url = https://github.com/semeniuta/EPypes
+[submodule "libraries/visionfuncs"]
+	path = libraries/visionfuncs
+	url = https://github.com/semeniuta/visionfuncs

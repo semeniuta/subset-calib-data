@@ -4,3 +4,6 @@
 [submodule "libraries/visionfuncs"]
 	path = libraries/visionfuncs
 	url = https://github.com/semeniuta/visionfuncs
+[submodule "libraries/vcalib"]
+	path = libraries/vcalib
+	url = https://github.com/semeniuta/vcalib
